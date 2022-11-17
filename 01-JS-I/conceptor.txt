@@ -1,0 +1,18 @@
+CONCEPTOS
+
+Variables: son  para almacenar valores. se declaran con let , const o var. se le asigna un valor 
+
+Strings: texto que va dentro de comillas simples o dobles
+
+Booleans: son true o false, dos opciones
+
+Undefined: se presenta cuando lo que estas buscando o llamando no existe, la variable no tiene un valor.
+
+Null: la variable esta vacio pero si existe
+
+Operadores: + - * / %
+
+== vs. ===:
+    ==      comparar dos expresiones y devuelven un valor booleano, true o false
+    ===      comparará todo sobre los dos elementos, incluido el tipo, y 
+            devolverá si son exactamente iguales o no.
